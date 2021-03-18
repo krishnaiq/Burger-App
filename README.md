@@ -1,6 +1,6 @@
 # Burger App UI
 
-Design:
+# Design:
 ![image](https://drive.google.com/uc?export=view&id=1pg2_2Qhk53TiIO0vKJJoluTwZAyiXcpt)
 
 Output(Video):
